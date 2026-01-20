@@ -1,0 +1,8 @@
+# Regex, copy paste regex menu pi-hole.
+(^|\.)(ad|af|ai|al|am|ao|ar|az|bg|bh|bj|bo|bs|by|bz|br|cf|cm|cn|cu|cy|dz|ee|ge|gh|ht|hu|id|hk|il|in|iq|ir|ke|kg|ki|kw|ky|kz|lb|lr|lt|lv|ma|md|mm|ms|mw|kp|ne|ng|om|pa|ph|pl|pk|ps|ps|qa|ro|rs|ru|rw|sa|sd|sl|sn|so|kr|sy|tj|tk|tn|us|uz)$ 
+
+# Geologich domains 
+# Andorra, Afghanistan, auguilla, albania, armenia, angola, argentinie, azerbeijan, bulgarije, bahrein, benin, bolivia, behamas, belarus, belize, brazil, centralafrika, kamaroen, 
+# china, cuba, cyprus, algerie, Estonia, Georgia, Ghana, Haiti, Hungary, Indonesia, hongkong, Israel, India, Iraq, Iran, Kenya, Kyrgyzstan, Kiribati, Kuwait, CaymanIslands, Kazakhstan, 
+# Lebanon, Liberia, Lithuania, letland, Morocco, Moldova, Myanmar, Montserrat, Malawi, northkorea, Niger, Nigeria, Oman, Panama, Philippines, poland, Pakistan, GazaStrip, Palestine, Qatar, Romania, 
+# Serbia, Russia, Rwanda, SaudiArabia, Sudan, SierraLeone, Senegal, Somalia, south korea, Syria, Tajikistan, turkije, Tunisia, UnitedStatesofAmerica, Uzbekistan, vietnam
