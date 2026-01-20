@@ -1,2 +1,0 @@
-# Pi-hole
-Regex
