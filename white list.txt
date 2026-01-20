@@ -2,38 +2,38 @@
 activity.windows.com	        # EA Play on Xbox
 android.clients.google.com	  # Google Domains, Android/Chrome, Play
 api.directory.signal.org	    # Signal
-api.facebook.com	Facebook, Facebook Messenger
-api.twitter.com	Twitter
-api-tv.spotify.com	Spotify
-appleid.apple.com	Apple ID
-apps.skype.com	Skype
-appspot-preview.l.google.com	Moto phones OS updates
-apresolve.spotify.com	Spotify
-arc.msn.com	Store App on Series X/S
-attestation.xboxlive.com	Microsoft  discovered initially on Reddit and /r/xboxone
-b-api.facebook.com	Facebook, Facebook Messenger
-b-graph.facebook.com	Facebook, Facebook Messenger
-bigzipfiles.facebook.com	Facebook, Facebook Messenger
-c.s-microsoft.com	Microsoft, Office, Outlook, Live, Xbox
-captive.apple.com	iOS/Apple
-cdn.fbsbx.com	Facebook, Facebook Messenger
-cdn.optimizely.com	Origin, Content delivery
-cdn.signal.org	Signal
-cds.s5x3j6q5.hwcdn.net	nu.nl
-cert.mgt.xboxlive.com	Microsoft  discovered initially on Reddit and /r/xboxone
-chat.signal.org	Signal
-clientconfig.passport.net	Xbox Live
-client-s.gateway.messenger.live.com	Xbox Live Messaging, Skype
-clients2.google.com	Google Domains
-clients3.google.com	Android/Chrome
-clients4.google.com	Google Domains
-cloudsync-prod.s3.amazonaws.com	Origin (Savegame-Sync)
-cms.souqcdn.com	Signal
-connect.facebook.com	Facebook, Facebook Messenger
-connectivitycheck.android.com	Android/Chrome
-connectivitycheck.gstatic.com	Android/Chrome
-contentproxy.signal.org	Signal
-creative.ak.fbcdn.net	Facebook, Facebook Messenger
+api.facebook.com              # Facebook, Facebook Messenger
+api.twitter.com               # Twitter
+api-tv.spotify.com	          # Spotify
+appleid.apple.com	            # Apple ID
+apps.skype.com	              # Skype
+appspot-preview.l.google.com	# Moto phones OS updates
+apresolve.spotify.com	        # Spotify
+arc.msn.com	                  # Store App on Series X/S
+attestation.xboxlive.com	    # Microsoft  discovered initially on Reddit and /r/xboxone
+b-api.facebook.com	          # Facebook, Facebook Messenger
+b-graph.facebook.com	        # Facebook, Facebook Messenger
+bigzipfiles.facebook.com	    # Facebook, Facebook Messenger
+c.s-microsoft.com	            # Microsoft, Office, Outlook, Live, Xbox
+captive.apple.com	            # iOS/Apple
+cdn.fbsbx.com	                # Facebook, Facebook Messenger
+cdn.optimizely.com	          # Origin, Content delivery
+cdn.signal.org	              # Signal
+cds.s5x3j6q5.hwcdn.net	      # nu.nl
+cert.mgt.xboxlive.com	        # Microsoft  discovered initially on Reddit and /r/xboxone
+chat.signal.org	              # Signal
+clientconfig.passport.net	    # Xbox Live
+client-s.gateway.messenger.live.com	 # Xbox Live Messaging, Skype
+clients2.google.com	                 # Google Domains
+clients3.google.com	                 # Android/Chrome
+clients4.google.com	                 # Google Domains
+cloudsync-prod.s3.amazonaws.com	     # Origin (Savegame-Sync)
+cms.souqcdn.com	                     # Signal
+connect.facebook.com	               # Facebook, Facebook Messenger
+connectivitycheck.android.com	       # Android/Chrome
+connectivitycheck.gstatic.com	       # Android/Chrome
+contentproxy.signal.org	             # Signal
+creative.ak.fbcdn.net	               # Facebook, Facebook Messenger
 ctldl.windowsupdate.com	Microsoft  discovered initially on Reddit and /r/xboxone
 d83eunklitikj.cloudfront.net	Signal
 def-vef.xboxlive.com	Microsoft  discovered initially on Reddit and /r/xboxone
