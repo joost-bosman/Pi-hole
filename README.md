@@ -1,0 +1,12 @@
+I haven't been able to fully test the system yet. (jet blocklist is 
+My Raspberry Pi 4b doesn't have enough RAM capacity, and the current SD card was too small.
+I'm going to test with a new 128GB SD card, using part of it as swap memory.
+
+With about a quarter of the blocklist, I already reached over 12 million domains. I expect to exceed 24 million with the full list.
+
+All credit goes to the actual developers, and those who keep the lists up-to-date. If I forget anyone, please add them to this list.
+
+Perflyst, blocklistproject, adguard, DandelionSprout, RPiList, sefinek, MajkiIT, StevenBlack, TrustPositif, chadmayfield, oisd, Sinfonietta, ZingyAwesome, 
+4skinSkywalker's, AmnestyTech, bloodhunterd, craiu, Dogino, durablenapkin, DXC-0, elliotwutingfeng, FadeMind, jarelllama, marktron, notracking, ShadowWhisperer, 
+Snota418, Spam404, spmedia, stopforumspam, Tempest-Solutions-Company, wlqY8gkVb9w1Ck5MVD4lBre9nWJez8, hagezi, firebog, AdAway, anudeepND, deathbybandaid, hoshsadiq, 
+kboghdady, stevenblack (standaard pihole list), SweetSophia, Tempest, zangadoprojets, ransomware
