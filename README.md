@@ -1,6 +1,6 @@
-I haven't been able to fully test the system yet. (jet blocklist is 
+note: I haven't been able to fully test the system.
 My Raspberry Pi 4b doesn't have enough RAM capacity, and the current SD card was too small.
-I'm going to test with a new 128GB SD card, using part of it as swap memory.
+I'm going to test with a new 128GB SD card, using a part of it as swap memory.
 
 With about a quarter of the blocklist, I already reached over 12 million domains. I expect to exceed 24 million with the full list.
 
