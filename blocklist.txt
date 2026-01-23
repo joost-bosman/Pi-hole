@@ -1077,6 +1077,8 @@ https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_30d.ipset
 https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_1d.ipset
 https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes.ipset
 https://github.com/firehol/blocklist-ipsets/blob/master/bds_atif.ipset
+https://github.com/KarionovV/china-block/blob/main/list-rules.txt
+
 
 
 
