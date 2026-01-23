@@ -7,5 +7,5 @@
 ^((www|(w[0-9]\.)?web|media((-[a-z]{3}|\.[a-z]{4})[0-9]{1,2}-[0-9](\.|-)(cdn|fna))?)\.)?whatsapp\.(com|net)$  # WhatsApp
 (\.|^)twimg\.com$                                                                                             # Twitter
 
-a-delivery.rmbl.ws                                                                                            # Rumble and Truth Social
+a-delivery.rmbl.ws                                                                                            # Rumble and Truth Social (HukIt, reddit)
 https://perflyst.github.io/PiHoleBlocklist/regex.list                                                         # Perflyst
