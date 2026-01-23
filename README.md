@@ -13,6 +13,5 @@ kboghdady, stevenblack (default pihole list), SweetSophia, Tempest, zangadoproje
 
 
 I use the IP2Location LITE database for blocking China. 
-# Note: add the following when using My blocklists, containing IP2Location database.
-# I also use data from the IP2Location LITE database for blocking China.
-# IP2Location is a registered trademark of Hexasoft Development Sdn Bhd. All other trademarks are the property of their respective owners.
+(Note: add the following when using My blocklists, containing IP2Location database). 
+(I also use data from the IP2Location LITE database for blocking China. IP2Location is a registered trademark of Hexasoft Development Sdn Bhd. All other trademarks are the property of their respective owners.)
