@@ -9,4 +9,5 @@ All credit goes to the actual developers, and those who keep the lists up-to-dat
 Perflyst, blocklistproject, adguard, DandelionSprout, RPiList, sefinek, MajkiIT, StevenBlack, TrustPositif, chadmayfield, oisd, Sinfonietta, ZingyAwesome, 
 4skinSkywalker's, AmnestyTech, bloodhunterd, craiu, Dogino, durablenapkin, DXC-0, elliotwutingfeng, FadeMind, jarelllama, marktron, notracking, ShadowWhisperer, 
 Snota418, Spam404, spmedia, stopforumspam, Tempest-Solutions-Company, wlqY8gkVb9w1Ck5MVD4lBre9nWJez8, hagezi, firebog, AdAway, anudeepND, deathbybandaid, hoshsadiq, 
-kboghdady, stevenblack (standaard pihole list), SweetSophia, Tempest, zangadoprojets, ransomware
+kboghdady, stevenblack (standaard pihole list), SweetSophia, Tempest, zangadoprojets, ransomware, Entree3k
+
