@@ -893,6 +893,7 @@ https://github.com/Androphin/truthnews-blocker/blob/main/youtube/channels.lst
 https://github.com/antifa-n/pihole/blob/master/blocklist-alttech.txt
 https://github.com/antifa-n/pihole/blob/master/blocklist-pop.txt
 https://github.com/antifa-n/pihole/blob/master/blocklist.txt
+https://github.com/buckmelanoma/block_lists/blob/master/trump.txt
 
 
 
