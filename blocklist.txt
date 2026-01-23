@@ -886,6 +886,7 @@ https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Smart%20TV%20Ad%20Lis
 https://gist.github.com/hkamran80/779019103fcd306979411d44c8d38459
 https://github.com/l0wBoB/anti-foxnews-hosts/blob/main/foxnews-hosts
 https://github.com/l0wBoB/anti-alexjones-hosts/blob/main/alexjones-hosts
+https://github.com/l0wBoB/anti-rossijasewodnja-hosts/blob/main/rossijasewodnja-hosts
 
 
 
