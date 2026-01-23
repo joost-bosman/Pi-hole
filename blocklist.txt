@@ -884,6 +884,7 @@ https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Redirect%20List
 https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Scam%20List
 https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Smart%20TV%20Ad%20List
 https://gist.github.com/hkamran80/779019103fcd306979411d44c8d38459
+https://github.com/l0wBoB/anti-foxnews-hosts/blob/main/foxnews-hosts
 
 
 
