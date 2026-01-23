@@ -12,7 +12,7 @@ Snota418, Spam404, spmedia, stopforumspam, Tempest-Solutions-Company, wlqY8gkVb9
 kboghdady, stevenblack (default pihole list), SweetSophia, Tempest, zangadoprojets, ransomware, Entree3k, hkamran80, l0wBoB, Androphin, antifa-nantifa-n, buckmelanoma, nickoppen, https://lite.ip2location.com
 
 
-I use the IP2Location LITE database for blocking China.
+I use the IP2Location LITE database for blocking China. 
 # Note: add the following when using My blocklists, containing IP2Location database.
 # I also use data from the IP2Location LITE database for blocking China.
 # IP2Location is a registered trademark of Hexasoft Development Sdn Bhd. All other trademarks are the property of their respective owners.
