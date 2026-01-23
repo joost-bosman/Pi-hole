@@ -4,6 +4,6 @@
 # Geologich domains 
 # Andorra, Afghanistan, auguilla, albania, armenia, angola, argentinie, azerbeijan, bulgarije, bahrein, benin, bolivia, behamas, belarus, belize, brazil, centralafrika, kamaroen, china, cuba, cyprus, algerie, Estonia, Georgia, Ghana, Haiti, Hungary, Indonesia, hongkong, Israel, India, Iraq, Iran, Kenya, Kyrgyzstan, Kiribati, Kuwait, CaymanIslands, Kazakhstan, Lebanon, Liberia, Lithuania, letland, Morocco, Moldova, Myanmar, Montserrat, Malawi, northkorea, Niger, Nigeria, Oman, Panama, Philippines, poland, Pakistan, GazaStrip, Palestine, Qatar, Romania, Serbia, Russia, Rwanda, SaudiArabia, Sudan, SierraLeone, Senegal, Somalia, south korea, Syria, Tajikistan, turkije, Tunisia, UnitedStatesofAmerica, Uzbekistan, vietnam
 
-.*\.us$                                                                                                       # seperate .us block
+
 
 
