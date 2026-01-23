@@ -894,6 +894,9 @@ https://github.com/antifa-n/pihole/blob/master/blocklist-alttech.txt
 https://github.com/antifa-n/pihole/blob/master/blocklist-pop.txt
 https://github.com/antifa-n/pihole/blob/master/blocklist.txt
 https://github.com/buckmelanoma/block_lists/blob/master/trump.txt
+https://github.com/buckmelanoma/block_lists/blob/master/hue_bridge.txt
+https://github.com/buckmelanoma/block_lists/blob/master/leadforensics.txt
+
 
 
 
