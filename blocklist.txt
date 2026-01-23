@@ -866,6 +866,23 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://www.einmalzahlungzweihundert.de/bl-einmalzahlung.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Abuse%20Lists
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Ad%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Crypto%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Drug%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Fake%20News%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Fraud%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Gambling%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Malware%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Master%20Blocklist
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Phishing%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Piracy%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Porn%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Proxy%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Ransomware%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Redirect%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Scam%20List
+https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Smart%20TV%20Ad%20List
 
 
 
