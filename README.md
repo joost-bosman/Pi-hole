@@ -9,4 +9,5 @@ All credits/acknowledgments goes to the actual developers/sources, and those who
 Perflyst, blocklistproject, adguard, DandelionSprout, RPiList, sefinek, MajkiIT, StevenBlack, TrustPositif, chadmayfield, oisd, Sinfonietta, ZingyAwesome, 
 4skinSkywalker's, AmnestyTech, bloodhunterd, craiu, Dogino, durablenapkin, DXC-0, elliotwutingfeng, FadeMind, jarelllama, marktron, notracking, ShadowWhisperer, 
 Snota418, Spam404, spmedia, stopforumspam, Tempest-Solutions-Company, wlqY8gkVb9w1Ck5MVD4lBre9nWJez8, hagezi, firebog, AdAway, anudeepND, deathbybandaid, hoshsadiq, 
-kboghdady, stevenblack (default pihole list), SweetSophia, Tempest, zangadoprojets, ransomware, Entree3k, hkamran80, l0wBoB, Androphin, antifa-nantifa-n, buckmelanoma, nickoppen, firehol
+kboghdady, stevenblack (default pihole list), SweetSophia, Tempest, zangadoprojets, ransomware, Entree3k, hkamran80, l0wBoB, Androphin, antifa-nantifa-n, buckmelanoma, nickoppen, firehol, Karionov Viktor
+
