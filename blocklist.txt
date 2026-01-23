@@ -887,6 +887,9 @@ https://gist.github.com/hkamran80/779019103fcd306979411d44c8d38459
 https://github.com/l0wBoB/anti-foxnews-hosts/blob/main/foxnews-hosts
 https://github.com/l0wBoB/anti-alexjones-hosts/blob/main/alexjones-hosts
 https://github.com/l0wBoB/anti-rossijasewodnja-hosts/blob/main/rossijasewodnja-hosts
+https://github.com/Androphin/truthnews-blocker/blob/main/domains/de_DE.lst
+https://github.com/Androphin/truthnews-blocker/blob/main/domains/en_US.lst
+https://github.com/Androphin/truthnews-blocker/blob/main/youtube/channels.lst
 
 
 
