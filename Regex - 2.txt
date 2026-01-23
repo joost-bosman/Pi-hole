@@ -9,3 +9,5 @@
 
 a-delivery.rmbl.ws                                                                                            # Rumble and Truth Social (HukIt, reddit)
 https://perflyst.github.io/PiHoleBlocklist/regex.list                                                         # Perflyst
+.*\.us$	                                                                                                      # separate .us block
+https://github.com/DXC-0/Respect-My-Internet/blob/main/regex/respect-my-freedom.txt	                          # DXC-0
