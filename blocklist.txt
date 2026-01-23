@@ -890,6 +890,9 @@ https://github.com/l0wBoB/anti-rossijasewodnja-hosts/blob/main/rossijasewodnja-h
 https://github.com/Androphin/truthnews-blocker/blob/main/domains/de_DE.lst
 https://github.com/Androphin/truthnews-blocker/blob/main/domains/en_US.lst
 https://github.com/Androphin/truthnews-blocker/blob/main/youtube/channels.lst
+https://github.com/antifa-n/pihole/blob/master/blocklist-alttech.txt
+https://github.com/antifa-n/pihole/blob/master/blocklist-pop.txt
+https://github.com/antifa-n/pihole/blob/master/blocklist.txt
 
 
 
