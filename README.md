@@ -2,7 +2,8 @@
 My Raspberry Pi 4b, lack of amound ram and storage capacity.
 in time I'm going to test with a new 128GB SD card, parsly using it as swap memory.
 
-# 30 gig enough? any other trick for efficiency?
+
+30 gig enough? any other trick for efficiency?
 
 
 All credits/acknowledgments goes to the actual developers/sources!
