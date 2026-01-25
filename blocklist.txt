@@ -1,4 +1,4 @@
-github.com/blocklistproject/Lists/blob/master/adguard/abuse-ags.txt  
+github.com/blocklistproject/Lists/blob/master/adguard/abuse-ags.txt
 github.com/blocklistproject/Lists/blob/master/adguard/adobe-ags.txt
 github.com/blocklistproject/Lists/blob/master/adguard/basic-ags.txt
 github.com/blocklistproject/Lists/blob/master/adguard/crypto-ags.txt
