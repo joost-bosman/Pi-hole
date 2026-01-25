@@ -757,3 +757,44 @@ https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Streaming	RPiList (ignored 9370 non-domain entries)	23869
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/SupportingRussia	RPiList (ignored 9370 non-domain entries)	988
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Win10Telemetry	RPiList (ignored 9370 non-domain entries)	45
+https://raw.githubusercontent.com/matomo-org/referrer-spam-list/refs/heads/master/spammers.txt
+https://github.com/marktron/fakenews/blob/master/fakenews
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-amongusplay.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-atlasvpn.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-badoo.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-blizzard.txt
+https://raw.githubusercontent.com/l0wBoB/anti-alexjones-hosts/refs/heads/main/alexjones-hosts
+https://raw.githubusercontent.com/l0wBoB/anti-foxnews-hosts/refs/heads/main/foxnews-hosts
+https://github.com/l0wBoB/anti-rossijasewodnja-hosts/blob/main/rossijasewodnja-hosts
+https://raw.githubusercontent.com/hkamran80/blocklists/refs/heads/main/smart-tv.txt
+https://raw.githubusercontent.com/hkamran80/PiHoleBlocklist/refs/heads/master/SessionReplay.txt
+https://raw.githubusercontent.com/hkamran80/PiHoleBlocklist/refs/heads/master/android-tracking.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/chainabuse.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/easydmarc.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/franceverif.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/gridinsoft.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/malwareurl.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/scamscavenger.txt
+https://raw.githubusercontent.com/jarelllama/Parked-Domains/refs/heads/main/parked_domains.txt
+ttps://raw.githubusercontent.com/jarelllama/Parked-Domains/refs/heads/main/unparked_domains.txt
+https://raw.githubusercontent.com/jarelllama/Blocklist-Sources/refs/heads/main/tranco.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Search-Engine-Spam-Blocklist/refs/heads/master/blocklist.txt
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Abuse%20Lists
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Ad%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Crypto%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Drug%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Fake%20News%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Fraud%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Gambling%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Malware%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Master%20Blocklist
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Phishing%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Piracy%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Porn%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Proxy%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Ransomware%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Redirect%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Scam%20List
+https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Smart%20TV%20Ad%20List
+https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_ABP.txt
+https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_pihole.txt
