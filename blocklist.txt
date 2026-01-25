@@ -1,4 +1,4 @@
-# I've taken the time to individually test the blocklist below. All in all, I've it's addes up to a total of 121,883,397 domains that will be blocked.
+ # I've taken the time to individually test the blocklist below. All in all, I've it's addes up to a total of 121,883,397 domains that will be blocked.
 
 https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt
 https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
