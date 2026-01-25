@@ -677,3 +677,83 @@ https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/languag
 https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/lithuanian.txt
 https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/russian.txt
 https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/spanish.txt
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-discord.txt	nickoppen	75
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-ea.txt	nickoppen	2716
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-epicgames.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-expressvpn.txt	nickoppen	42
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-facebook.txt	nickoppen	2324
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-fetlife.txt	nickoppen	241
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-freevpnplanet.txt	nickoppen	39
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-hide.txt	nickoppen	526
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-hideservers.txt	nickoppen	989
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-hola.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-hotspotshield.txt	nickoppen	70
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-ioi.txt	nickoppen	127
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-ipvanish.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-ivpn.txt	nickoppen	525
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-kakao.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-kiwibox.txt	nickoppen	59
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-minecraft.txt	nickoppen	669
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-messenger.txt	nickoppen	654
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-mullvad.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-myspace.txt	nickoppen	645
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-neocities.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-nordvpn.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-omegle.txt	nickoppen	70
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-privadovpn.txt	nickoppen	48
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-privateinternetaccess.txt	nickoppen	339
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-protonvpn.txt	nickoppen	1835
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-purevpn.txt	nickoppen	184
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-renren.txt	nickoppen	803
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-roblox.txt	nickoppen	2353
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-speedify.txt	nickoppen	37
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-square-enix.txt	nickoppen	771
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-stork.txt	nickoppen	198
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-strongvpn.txt	nickoppen	75
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tagged.txt	nickoppen	94
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-take-twoInteractive.txt	nickoppen	998
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-taringa.txt	nickoppen	164
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-telegram.txt	nickoppen	381
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tencent.txt	nickoppen	6864
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-the-dots.txt	nickoppen	61
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tiktok.txt	nickoppen	1123
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tinder.txt	nickoppen	481
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tunnelbear.txt	nickoppen	85
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-urban-vpn.txt	nickoppen	666
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-viber.txt	nickoppen	586
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-warthunder.txt	nickoppen	536
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-whispersystems.txt	nickoppen	14
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-windscribe.txt	nickoppen	2001
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-yy.txt	nickoppen	1209
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-zynga.txt	nickoppen	2556
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/unifiedGamingLists01.txt	nickoppen	46976
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/unifiedGamingLists02.txt	nickoppen	2967
+https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/vpn-windscribe-blocklist.txt	nickoppen	1016
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/refs/heads/master/domains.dead.txt	notracking	117974
+https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/refs/heads/master/hostnames.dead.txt	notracking	55562
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/child-protection	RPiList	243363
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Corona-Blocklist	RPiList	269494
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/crypto	RPiList (ignored 9370 non-domain entries)	98657
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DatingSites	RPiList (ignored 9370 non-domain entries)	288513
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting1	RPiList (ignored 9370 non-domain entries)	1000000
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/DomainSquatting2	RPiList (ignored 9370 non-domain entries)	416510
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/easylist	RPiList (ignored 9370 non-domain entries)	61865
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Fake-Science	RPiList (ignored 9370 non-domain entries)	1240
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/gambling	RPiList (ignored 9370 non-domain entries)	1907816
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/malware	RPiList (ignored 9370 non-domain entries)	429947
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/MS-Office-Telemetry	RPiList (ignored 9370 non-domain entries)	3
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/notserious	RPiList (ignored 9370 non-domain entries)	100121
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Overblock	RPiList (ignored 9370 non-domain entries)	6
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Phishing-Angriffe	RPiList (ignored 9370 non-domain entries)	155494
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock1	RPiList (ignored 9370 non-domain entries)	1125000
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock2	RPiList (ignored 9370 non-domain entries)	1125000
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock3	RPiList (ignored 9370 non-domain entries)	1125000
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock4	RPiList (ignored 9370 non-domain entries)	1125000
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock5	RPiList (ignored 9370 non-domain entries)	1125000
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock6	RPiList (ignored 9370 non-domain entries)	467002
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/proxies	RPiList (ignored 9370 non-domain entries)	202266
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/samsung	RPiList (ignored 9370 non-domain entries)	84
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/spam.mails	RPiList (ignored 9370 non-domain entries)	149586
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Streaming	RPiList (ignored 9370 non-domain entries)	23869
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/SupportingRussia	RPiList (ignored 9370 non-domain entries)	988
+https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/Win10Telemetry	RPiList (ignored 9370 non-domain entries)	45
