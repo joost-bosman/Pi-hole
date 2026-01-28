@@ -1,4 +1,4 @@
- # I've taken the time to individually test the blocklist below. All in all, I've it's addes up to a total of 121,883,397 domains that will be blocked.
+ # I've taken the time to individually test the blocklist below. All in all, I've it's addes up to a total of 126,067,364 domains that will be blocked.
 
 https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt
 https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
@@ -798,3 +798,33 @@ https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/refs/heads/master/Smart%20TV%20Ad%20List
 https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_ABP.txt
 https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_pihole.txt
+https://raw.githubusercontent.com/joost-bosman/Pi-hole/refs/heads/Pihole/ZingyAwesome%20blocklist
+https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls.txt
+https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_ABP.txt
+https://raw.githubusercontent.com/stopforumspam/disposable_email_domains/refs/heads/master/blacklist.txt
+https://raw.githubusercontent.com/Spam404/lists/refs/heads/master/adblock-list.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_umbra.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt
+https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/refs/heads/main/Crypto%20streams
+https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/refs/heads/main/General%20phishing
+https://raw.githubusercontent.com/Spam404/burner-email-providers/refs/heads/master/emails.txt
+https://raw.githubusercontent.com/Spam404/lists/refs/heads/master/main-blacklist.txt
+https://raw.githubusercontent.com/zangadoprojets/pi-hole-blocklist/main/Pornpages.txt
+https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/Crunchyroll-Blocklist/refs/heads/master/CrunchyrollAdsBlocklist
+https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/Zoom-Blocklist/refs/heads/master/Goodbye-Zoom
+https://raw.githubusercontent.com/zangadoprojets/pi-hole-blocklist/main/Adsandtrackers.txt
+https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/dutch.txt
+https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/french.txt
+https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/german.txt
+https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/italian.txt
+https://codeberg.org/ZingyAwesome/easylists-for-pihole/raw/branch/master/language/spanish.txt
+https://raw.githubusercontent.com/ZingyAwesome/easylists-for-pihole/refs/heads/master/easylist.txt
+https://raw.githubusercontent.com/ZingyAwesome/easylists-for-pihole/refs/heads/master/easyprivacy.txt
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/refs/heads/master/gambling-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/refs/heads/master/pornography-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/refs/heads/master/snuff-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/refs/heads/master/social-hosts
+https://github.com/sefinek/Blacklisted-Emails/blob/main/blacklist/LIST.txt
+https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-betternet.txt
+https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-cyberghostvpn.txt
+https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-deviantart.txt
