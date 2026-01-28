@@ -1,399 +1,232 @@
-# blocklist's of need for more inspection 
+# blocklist's ip-adress. test blocklist home router
 
-0	https://binarydefense.com/banlist.txt	firehol	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/bds_atif.ipset	firehol	
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_apache.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_bots.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_bruteforce.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_ftp.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_imap.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_mail.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_sip.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_ssh.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_strongips.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_net_ua.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/botscout.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/botscout_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/botscout_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/botscout_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/botvrij_dst.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/botvrij_src.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/bruteforceblocker.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/ciarmy.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_top20.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cta_cryptowall.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/cybercrime.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/darklist_de.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/dm_tor.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/dshield.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/dshield_1d.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/dshield_30d.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/dshield_7d.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/et_block.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/et_compromised.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/et_dshield.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/et_spamhaus.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/et_tor.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/feodo.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/feodo_badips.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_abusers_1d.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_abusers_30d.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_anonymous.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level1.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level2.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level3.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level4.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_proxies.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_webclient.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/firehol_webserver.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/gpf_comics.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/graphiclineweb.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/greensnow.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_abuse_palevo.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_abuse_spyeye.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_abuse_zeus.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_ciarmy_malicious.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_cruzit_web_attacks.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_aol.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_att.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_cablevision.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_charter.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_comcast.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_embarq.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_qwest.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_sprint.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_suddenlink.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_twc.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_verizon.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_malc0de.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_onion_router.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_crowd_control.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_joost.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_linden_lab.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_logmein.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_ncsoft.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_pandora.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_pirate_bay.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_punkbuster.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_square_enix.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_xfire.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_pedophiles.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_spamhaus_drop.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_yoyo_adservers.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/myip.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_harvesters_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_harvesters_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_spammers_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_spammers_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/php_spammers_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/spamhaus_drop.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/spamhaus_edrop.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/sslproxies.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/sslproxies_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/sslproxies_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_365d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_90d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_toxic.netset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/tor_exits_1d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/tor_exits_30d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/tor_exits_7d.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/vxvault.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1288	https://github.com/firehol/blocklist-ipsets/blob/master/yoyo_adservers.ipset	firehol (ignored 9224 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-1283	https://github.com/elliotwutingfeng/USOM-Blocklists/blob/main/urls_ABP.txt	elliotwutingfeng (ignored 9062 non-domain entries)	
-1283	https://github.com/elliotwutingfeng/USOM-Blocklists/blob/main/urls_pihole.txt	elliotwutingfeng (ignored 9062 non-domain entries)	
-1283	https://github.com/elliotwutingfeng/USOM-Blocklists/blob/main/urls_UBL.txt	elliotwutingfeng (ignored 9062 non-domain entries)	
-1283	https://github.com/elliotwutingfeng/USOM-Blocklists/blob/main/urls_UBO.txt	elliotwutingfeng (ignored 9062 non-domain entries)	
-1288	https://github.com/elliotwutingfeng/Search-Engine-Spam-Blocklist/blob/master/blocklist.txt	elliotwutingfeng (ignored 9040 non-domain entries))	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Abuse%20Lists	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Ad%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Crypto%20List	Entree3k (ignored 9187 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Drug%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Fake%20News%20List	Entree3k (ignored 9219 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Fraud%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Gambling%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Malware%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Master%20Blocklist	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Phishing%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Piracy%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Porn%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Proxy%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Ransomware%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Redirect%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Scam%20List	Entree3k (ignored 9212 non-domain entries)	
-1288	https://github.com/Entree3k/Pi-hole-Block-List/blob/master/Smart%20TV%20Ad%20List	Entree3k (ignored 9212 non-domain entries)	
-1283	https://github.com/FadeMind/adguard-personal-list/blob/master/adguard_user_filter.txt	FadeMind (ignored 9005 non-domain entries)	
-1283	https://github.com/FadeMind/adguard-personal-list/blob/master/alleblock-revised-adguard.txt	FadeMind (ignored 9005 non-domain entries)	
-	https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/refs/heads/main/blocklist_UBL.txt	elliotwutingfeng (ignored 3686 non-domain entries)	1e regel *://*.1-2-3-webportal.de/*
-	https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/refs/heads/main/blocklist_UBO.txt	elliotwutingfeng (ignored 3686 non-domain entries)	1e regel ||1-2-3-webportal.de^$all
-	https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/refs/heads/main/Google_hostnames_UBO.txt	elliotwutingfeng (ignored 775450 non-domain entries)	1e regel ||0--0--0--0.com^$all
-	https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/refs/heads/main/Google_ipv4.txt	elliotwutingfeng (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/refs/heads/main/blocklist_UBL.txt	elliotwutingfeng (ignored 1879 non-domain entries)	1e regel *://*.106-azino888.win/*
-	https://raw.githubusercontent.com/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/refs/heads/main/blocklist_UBO.txt	elliotwutingfeng (ignored 1893 non-domain entries)	1e regel ||10.egocasino3.com^$all
-	https://raw.githubusercontent.com/elliotwutingfeng/ACMA-blocked-gambling-websites/refs/heads/main/urls-UBL.txt	elliotwutingfeng (ignored1442 non-domain entries???)	1e regel *://*.1288true.com/*
-	https://raw.githubusercontent.com/elliotwutingfeng/ACMA-blocked-gambling-websites/refs/heads/main/urls-UBO.txt	elliotwutingfeng (ignored1442 non-domain entries???)	1e regel ||1288true.com^$all
-1283	https://github.com/elliotwutingfeng/USOM-Blocklists/blob/main/ips.txt	elliotwutingfeng (ignored 9063 non-domain entries)	(add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))
-	https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/ultimate.txt	hagezi (ignored 288765 non-domain entries)	
-	https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/ultimate.txt	hagezi (ignored 288765 non-domain entries)	
-1283	https://github.com/hkamran80/blocklists/blob/main/smart-tv.txt	hkamran80 (ignored 9011 non-domain entries))	
-1288	https://github.com/hkamran80/PiHoleBlocklist/blob/master/SessionReplay.txt	hkamran80 (ignored 9036 non-domain entries)	
-1288	https://github.com/hkamran80/PiHoleBlocklist/blob/master/android-tracking.txt	hkamran80 (ignored 9013 non-domain entries)	
-1283	https://github.com/jarelllama/Blocklist-Sources/blob/main/chainabuse.txt	jarelllama (ignored 9095 non-domain entries)	
-1283	https://github.com/jarelllama/Blocklist-Sources/blob/main/easydmarc.txt	jarelllama (ignored 9095 non-domain entries)	
-1283	https://github.com/jarelllama/Blocklist-Sources/blob/main/franceverif.txt	jarelllama (ignored 9095 non-domain entries)	
-1283	https://github.com/jarelllama/Blocklist-Sources/blob/main/gridinsoft.txt	jarelllama (ignored 9095 non-domain entries)	
-1283	https://github.com/jarelllama/Blocklist-Sources/blob/main/malwareurl.txt	jarelllama (ignored 9095 non-domain entries)	
-1283	https://github.com/jarelllama/Blocklist-Sources/blob/main/scamscavenger.txt	jarelllama (ignored 9095 non-domain entries)	
-1283	https://github.com/jarelllama/Parked-Domains/blob/main/parked_domains.txt	jarelllama (ignored 9023 non-domain entries)	
-1283	https://github.com/jarelllama/Parked-Domains/blob/main/parked_terms.txt	jarelllama (ignored 9519 non-domain entries)	
-1283	https://github.com/jarelllama/Parked-Domains/blob/main/unparked_domains.txt	jarelllama (ignored 9023 non-domain entries)	
-1288	https://github.com/KarionovV/china-block/blob/main/list-rules.txt	KarionovV (ignored 128258 non-domain entries)	
-1283	https://github.com/l0wBoB/anti-alexjones-hosts/blob/main/alexjones-hosts	l0wBoB (ignored 9139 non-domain entries)	
-1283	https://github.com/l0wBoB/anti-foxnews-hosts/blob/main/foxnews-hosts	l0wBoB (ignored 9084 non-domain entries)	
-1283	https://github.com/l0wBoB/anti-rossijasewodnja-hosts/blob/main/rossijasewodnja-hosts	l0wBoB (ignored 9256 non-domain entries)	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-40k.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-aa.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ab.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ac.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ad.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ae.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-af.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ag.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ah.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ai.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-aj.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-	https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-ak.txt	MajkiIT (add command zoals china van tot ip adress.csv? (1e regel (Order Allow, Deny) 2e regel (Deny from ip adres))	
-1418	https://github.com/matomo-org/referrer-spam-list.git	MajkiIT (ignored 13298 non-domain entries)	
-1288	https://github.com/marktron/fakenews/blob/master/fakenews	marktron (ignored 11357 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-amongusplay.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-atlasvpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-badoo.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-betternet.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-cyberghostvpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-deviantart.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-expressvpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-fetlife.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-freevpnplanet.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-hide.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-hideservers.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-hola.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-hotspotshield.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-ioi.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-ipvanish.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-ivpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-kakao.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-kiwibox.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-minecraft.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-mullvad.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-myspace.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-neocities.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-nordvpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-omegle.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-playvalorant.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-privadovpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-privateinternetaccess.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-protonvpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-purevpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-renren.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-roblox.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-speedify.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-square-enix.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-stork.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-strongvpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-tagged.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-take-twoInteractive.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-taringa.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-tencent.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-the-dots.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-tinder.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-tunnelbear.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-urban-vpn.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-viber.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-warthunder.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-whispersystems.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-windscribe.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-yy.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/blocklist-zynga.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/unifiedGamingLists01.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/unifiedGamingLists02.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/nickoppen/pihole-blocklists/blob/master/vpn-windscribe-blocklist.txt	nickoppen (ignored 9159 non-domain entries)	
-1288	https://github.com/notracking/hosts-blocklists-scripts/blob/master/domains.dead.txt	notracking (ignored 9141 non-domain entries)	
-1288	https://github.com/notracking/hosts-blocklists-scripts/blob/master/hostnames.dead.txt	notracking (ignored 9141 non-domain entries)	
-140	https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt	Perflyst (ignored 22 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/child-protection	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/Corona-Blocklist	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/crypto	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/DatingSites	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/DomainSquatting1	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/DomainSquatting2	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/DomainSquatting3	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/DomainSquatting4	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/easylist	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/Fake-Science	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/gambling	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/malware	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/MS-Office-Telemetry	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/notserious	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/Overblock	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/Phishing-Angriffe	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock1	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock2	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock3	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock4	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock5	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/pornblock6	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/proxies	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/samsung	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/spam.mails	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/Streaming	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/SupportingRussia	RPiList (ignored 9370 non-domain entries)	
-1288	https://github.com/RPiList/specials/blob/master/Blocklisten/Win10Telemetry	RPiList (ignored 9370 non-domain entries)	
-1288	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt	RPiList (ignored 9370 non-domain entries)	
-1288	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt	RPiList (ignored 9370 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Ads	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Adult	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Apple	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Bloat	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Chat	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Cryptocurrency	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Dating	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/DNS	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Fonts	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Gambling	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Junk	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Malware	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Marketing	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Microsoft	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Remote	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Scam	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Shock	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Tracking	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Tunnels	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Typo	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/UrlShortener	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Ads	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Chat	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Tracking	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Tunnel	ShadowWhisperer (ignored 9206 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Ads	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Adult	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Apple	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Bloat	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Chat	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Cryptocurrency	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Dating	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/DNS	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Dynamic	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Fonts	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Free	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Gambling	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Junk	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Malware	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Marketing	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Microsoft	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Remote	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Scam	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Shock	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Top_Level	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Tracking	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Tunnels	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Typo	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/UrlShortener	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Ads	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Apple	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Chat	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Fonts	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Microsoft	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Tracking	ShadowWhisperer (ignored 9229 non-domain entries)	
-2635	https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Tunnel	ShadowWhisperer (ignored 9229 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/BruteForce/Low	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Malware/Hackers	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Malware/Hackers_Old	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Malware/Hosting	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Other/Ads	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Other/DNS	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Other/Scanners	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Other/Trackers	ShadowWhisperer (ignored 9004 non-domain entries)	
-2571	https://github.com/ShadowWhisperer/IPs/blob/master/Other/Tunnel	ShadowWhisperer (ignored 9004 non-domain entries)	
-2597	https://github.com/Sinfonietta/hostfiles/blob/master/gambling-hosts	Sinfonietta (ignored 11808 non-domain entries)	
-2599	https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts	Sinfonietta (ignored 70137 non-domain entries)	
-2597	https://github.com/Sinfonietta/hostfiles/blob/master/snuff-hosts	Sinfonietta (ignored 9146 non-domain entries)	
-2597	https://github.com/Sinfonietta/hostfiles/blob/master/social-hosts	Sinfonietta (ignored 9146 non-domain entries)	
-0	https://raw.githubusercontent.com/sefinek/Blacklisted-Emails/main/blacklist/LIST.txt	sefinek (ignored 173 non-domain entries)	
-0	https://raw.githubusercontent.com/sefinek/Malicious-IP-Addresses/main/lists/main.txt	sefinek	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/command_injection_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/compromised_host_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/dns_attack_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/port_scanning_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/sql_injection_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/ssh_scanning_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/terminal_server_attack_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/tor_traffic_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/unknown_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2579	https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/web_attack_threats.txt	Tempest-Solutions-Company (ignored 9222 non-domain entries)	
-2597	https://github.com/stopforumspam/disposable_email_domains/blob/master/blacklist.txt	stopforumspam (ignored 9123 non-domain entries)	
-2661	https://github.com/Snota418/Youtube-spam-host-list/blob/main/Crypto%20streams	Snota418 (ignored 9345 non-domain entries)	
-2661	https://github.com/Snota418/Youtube-spam-host-list/blob/main/General%20phishing	Snota418 (ignored 9384 non-domain entries)	
-2584	https://github.com/Spam404/burner-email-providers/blob/master/emails.txt	Spam404 (ignored 9044 non-domain entries)	
-2597	https://github.com/Spam404/lists/blob/master/adblock-list.txt	Spam404 (ignored 9119 non-domain entries)	
-2597	https://github.com/Spam404/lists/blob/master/main-blacklist.txt	Spam404 (ignored 9154 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_breached_hn.txt	spmedia (ignored 9154 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_breachforums_st.txt	spmedia (ignored 9197 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_ALL_Dec_29_2025.json	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_blackhatworld.txt	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforumsBF.txt	spmedia (ignored 9197 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt	spmedia (ignored 9197 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_cracked.txt	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darkforums.txt	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darknetarmy.txt	spmedia (ignored 9171 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_dread.txt	spmedia (ignored 9197 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_hackforums.txt	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_oguser.txt	spmedia (ignored 9198 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_patched.txt	spmedia (ignored 9174 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt	spmedia (ignored 9214 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_umbra.txt	spmedia (ignored 9197 non-domain entries)	
-2597	https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt	spmedia (ignored 9257 non-domain entries)	
-2072656	https://raw.githubusercontent.com/zangadoprojets/pi-hole-blocklist/main/Pornpages.txt	zangadoprojets  (ignored 583 non-domain entries)	
-2597	https://github.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/Crunchyroll-Blocklist/blob/master/CrunchyrollAdsBlocklist	wlqY8gkVb9w1Ck5MVD4lBre9nWJez8 (ignored 9148 non-domain entries)	
-2597	https://github.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/Zoom-Blocklist/blob/master/Goodbye-Zoom	wlqY8gkVb9w1Ck5MVD4lBre9nWJez8 (ignored 9147 non-domain entries)	
-0	https://raw.githubusercontent.com/zangadoprojets/pi-hole-blocklist/main/Adsandtrackers.txt	zangadoprojets  (ignored 409 non-domain entries)	
-448	https://codeberg.org/ZingyAwesome/easylists-for-pihole/src/branch/master/language/dutch.txt	ZingyAwesome  (ignored 2686 non-domain entries)	
-448	https://codeberg.org/ZingyAwesome/easylists-for-pihole/src/branch/master/language/french.txt	ZingyAwesome  (ignored 72418 non-domain entries)	
-449	https://codeberg.org/ZingyAwesome/easylists-for-pihole/src/branch/master/language/german.txt	ZingyAwesome  (ignored 3177 non-domain entries)	
-448	https://codeberg.org/ZingyAwesome/easylists-for-pihole/src/branch/master/language/italian.txt	ZingyAwesome  (ignored 2710 non-domain entries)	
-448	https://codeberg.org/ZingyAwesome/easylists-for-pihole/src/branch/master/language/spanish.txt	ZingyAwesome  (ignored 2662 non-domain entries)	
-2571	https://github.com/ZingyAwesome/easylists-for-pihole/blob/master/easylist.txt	ZingyAwesome  (ignored 9019 non-domain entries)	
-2571	https://github.com/ZingyAwesome/easylists-for-pihole/blob/master/easyprivacy.txt	ZingyAwesome  (ignored 9019 non-domain entries)	
-432497	https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls.txt	elliotwutingfeng ((blocking, ignored 6231 non-domain entries)	
-432497	https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/refs/heads/main/urls_ABP.txt	elliotwutingfeng ((blocking, ignored 6237 non-domain entries)	
-2579	https://github.com/joost-bosman/Pi-hole/blob/Pihole/ZingyAwesome%20blocklist	ZingyAwesome  (ignored 9008 non-domain entries	
+https://binarydefense.com/banlist.txt
+https://github.com/firehol/blocklist-ipsets/blob/master/bds_atif.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/bitcoin_nodes_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_apache.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_bots.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_bruteforce.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_ftp.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_imap.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_mail.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_sip.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_ssh.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_de_strongips.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/blocklist_net_ua.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/botscout.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/botscout_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/botscout_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/botscout_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/botvrij_dst.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/botvrij_src.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/bruteforceblocker.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/ciarmy.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_new_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_top20.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cleantalk_updated_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cta_cryptowall.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/cybercrime.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/darklist_de.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/dm_tor.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/dshield.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/dshield_1d.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/dshield_30d.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/dshield_7d.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/et_block.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/et_compromised.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/et_dshield.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/et_spamhaus.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/et_tor.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/feodo.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/feodo_badips.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_abusers_1d.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_abusers_30d.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_anonymous.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level1.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level2.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level3.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_level4.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_proxies.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_webclient.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/firehol_webserver.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/gpf_comics.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/graphiclineweb.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/greensnow.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_abuse_palevo.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_abuse_spyeye.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_abuse_zeus.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_ciarmy_malicious.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_cruzit_web_attacks.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_aol.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_att.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_cablevision.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_charter.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_comcast.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_embarq.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_qwest.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_sprint.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_suddenlink.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_twc.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_isp_verizon.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_malc0de.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_onion_router.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_crowd_control.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_joost.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_linden_lab.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_logmein.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_ncsoft.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_pandora.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_pirate_bay.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_punkbuster.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_square_enix.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_org_xfire.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_pedophiles.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_spamhaus_drop.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/iblocklist_yoyo_adservers.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/myip.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_commenters_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_dictionary_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_harvesters_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_harvesters_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_spammers_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_spammers_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/php_spammers_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/socks_proxy_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/spamhaus_drop.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/spamhaus_edrop.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/sslproxies.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/sslproxies_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/sslproxies_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_365d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_90d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/stopforumspam_toxic.netset
+https://github.com/firehol/blocklist-ipsets/blob/master/tor_exits_1d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/tor_exits_30d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/tor_exits_7d.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/vxvault.ipset
+https://github.com/firehol/blocklist-ipsets/blob/master/yoyo_adservers.ipset
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Ads
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Adult
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Apple
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Bloat
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Chat
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Cryptocurrency
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Dating
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/DNS
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Fonts
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Gambling
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Junk
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Malware
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Marketing
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Microsoft
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Remote
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Scam
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Shock
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Tracking
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Tunnels
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Typo
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/UrlShortener
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Ads
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Chat
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Tracking
+https://github.com/ShadowWhisperer/BlockLists/blob/master/Hosts/Wild_Tunnel
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Ads
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Adult
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Apple
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Bloat
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Chat
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Cryptocurrency
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Dating
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/DNS
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Dynamic
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Fonts
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Free
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Gambling
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Junk
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Malware
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Marketing
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Microsoft
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Remote
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Scam
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Shock
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Top_Level
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Tracking
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Tunnels
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Typo
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/UrlShortener
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Ads
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Apple
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Chat
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Fonts
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Microsoft
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Tracking
+https://github.com/ShadowWhisperer/BlockLists/blob/master/RAW/Wild_Tunnel
+https://github.com/ShadowWhisperer/IPs/blob/master/BruteForce/Low
+https://github.com/ShadowWhisperer/IPs/blob/master/Malware/Hackers
+https://github.com/ShadowWhisperer/IPs/blob/master/Malware/Hackers_Old
+https://github.com/ShadowWhisperer/IPs/blob/master/Malware/Hosting
+https://github.com/ShadowWhisperer/IPs/blob/master/Other/Ads
+https://github.com/ShadowWhisperer/IPs/blob/master/Other/DNS
+https://github.com/ShadowWhisperer/IPs/blob/master/Other/Scanners
+https://github.com/ShadowWhisperer/IPs/blob/master/Other/Trackers
+https://github.com/ShadowWhisperer/IPs/blob/master/Other/Tunnel
+https://raw.githubusercontent.com/sefinek/Malicious-IP-Addresses/main/lists/main.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/port_scanning_threats.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/sql_injection_threats.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/ssh_scanning_threats.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/terminal_server_attack_threats.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/tor_traffic_threats.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/unknown_threats.txt
+https://github.com/Tempest-Solutions-Company/threat-feeds/blob/main/web_attack_threats.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_breached_hn.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_breachforums_st.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_ALL_Dec_29_2025.json
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_blackhatworld.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforumsBF.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_cracked.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darkforums.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darknetarmy.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_dread.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_hackforums.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_oguser.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_patched.txt
+https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-40k.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-aa.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ab.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ac.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ad.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ae.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-af.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ag.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ah.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ai.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-aj.txt
+https://github.com/romainmarcoux/malicious-ip/blob/main/full-ak.txt
+https://github.com/KarionovV/china-block/blob/main/list-rules.txt
